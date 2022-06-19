@@ -17,7 +17,7 @@ chmod +x zerobin_retention.sh
 ```
 
 ## NOTE
-This script has been tested on Ubuntu 18.04 and newer and with a non-root user running it.  
+This script has been tested on Ubuntu 18.04 and newer and with a non-privileged user running the 0bin instance.  
 Edit the paths in the `zerobin_retention.sh` script to fit your needs.
 
 ***Enjoy!***
